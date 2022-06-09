@@ -1,0 +1,97 @@
+.name-title{
+    font-size: 60px;
+    white-space: nowrap;
+    position: relative;
+    color: transparent;
+}
+.name-title::before{
+    content: 'Niamul Hasan';
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #F1D00A;
+    animation: typing 5s linear infinite;
+    
+}
+
+@keyframes typing{
+    0%{
+        content: '|';
+    }
+    6%{
+        content: 'N|';
+    }
+    12%{
+        content: 'Ni|';
+    }
+    18%{
+        content: 'Nia|';
+    }
+    24%{
+        content: 'Niam|';
+    }
+    30%{
+        content: 'Niamu|';
+    }
+    36%{
+        content: 'Niamul|';
+    }
+    42%{
+        content: 'Niamul |';
+    }
+    48%{
+        content: 'Niamul H|';
+    }
+    54%{
+        content: 'Niamul Ha|';
+    }
+    60%{
+        content: 'Niamul Has|';
+    }
+    66%{
+        content: 'Niamul Hasa|';
+    }
+    72%{
+        content: 'Niamul Hasan|';
+    }
+    78%, 85%{
+        content: 'Niamul Hasan|';
+    }
+    86%{
+        content:'Niamul Hasa|' ;
+    }
+    87%{
+        content: 'Niamul Has|';
+    }
+    88%{
+        content:'Niamul Ha|';
+    }
+    89%{
+        content:'Niamul H|';
+    }
+    90%{
+        content:'Niamul |';
+    }
+    91%{
+        content:'Niamul|' ;
+    }
+    92%{
+        content:'Niamu|' ;
+    }
+    93%{
+        content: 'Niam|';
+    }
+    94%{
+        content:'Nia|' ;
+    }
+    95%{
+        content:'Ni|' ;
+    }
+    96%{
+        content:'N|' ;
+    }
+    100%{
+        content:'|' ;
+    }
+
+}

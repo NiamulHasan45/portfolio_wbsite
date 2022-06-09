@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "date": "Project Duration  12/2/22",
+    "title": "ELECTRONIC EXPRESS",
+    "image": "./asset/p1.jpg",
+    "description": "It is a store room where anybody can order products with a secured Login System, Products  will add to your cart. Payment system is also implemented. Admins can manage products, they also have the power to make anybody as admin. All products and users information stored in the database and updated automatically.",
+    "technology": "MERN stack, Tailwind, DaisyUI, Javascript ES6, Firebase Authentication, Stripe, Payment System, JWT Token, Heroku, Firebase Hoisting, imagebb. ",
+    "link": "https://electronic-express.web.app/"
+  },
+  {
+    "id": 1,
+    "date": "Project Duration  12/2/22",
+    "title": "MOTORCYCLE INVENTORY",
+    "image": "./asset/p2.jpg",
+    "description": "It is a product management store to add, manage and deliver products.You can securely login here and you can add and deliver products to manage easily. Very easy and user-friendly user-interface will give you a smooth experience.",
+    "technology": "MERN stack, Javascript ES6, Firebase Authentication, Heroku, Firebase Hoisting. ",
+    "link": "https://motorcycle-inventory-764ea.web.app/"
+  },
+  {
+    "id": 2,
+    "date": "Project Duration  12/2/22",
+    "title": "FITBUZZ GYM ",
+    "image": "./asset/p3.jpg",
+    "description": "You can securely login here and purchase all the services with the lowest rate. Very easy and user-friendly user-interface will give you a smooth experience. ",
+    "technology": "React JS, React Query, React Router, React Bootstrap, Javascript ES6, Firebase Authentication, Firebase Hoisting.",
+    "link": "https://fitbuzz-gym.web.app/"
+  },
+  {
+    "id": 2,
+    "date": "Project Duration  12/2/22",
+    "title": "Elegent Store",
+    "image": "./asset/p4.jpg",
+    "description": "You can add prouct on the cart and remove product from the cart. ",
+    "technology": "React JS, Javascript ES6, netlify hosting.",
+    "link": "https://elegent-store.netlify.app/"
+  },
+  {
+    "id": 2,
+    "date": "Project Duration  12/2/22",
+    "title": "Letter Box ",
+    "image": "./asset/p5.jpg",
+    "description": "React router is used to easy routing. Rechart showed the visual representation of data. ",
+    "technology": "React JS, React router, recharts, Javascript ES6, netlify hosting.",
+    "link": "https://zippy-tanuki-4e2d1d.netlify.app/"
+  }
+]

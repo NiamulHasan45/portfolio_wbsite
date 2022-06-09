@@ -1,0 +1,15 @@
+.footer-part{
+    color: white;
+    padding:20px 0px;
+    text-align: center;
+}
+.icons a{
+   display: inline-block;
+   margin: 5px;
+   padding:4px 8px;
+   border-radius: 50%;
+   background-color: #161249;;
+}
+.fab.bottom{
+    color: white;
+}
