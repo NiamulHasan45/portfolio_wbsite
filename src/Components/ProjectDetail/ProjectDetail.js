@@ -17,7 +17,7 @@ const ProjectDetail = () => {
 
     return (
         <div>
-             <div class="card glass mx-auto w-1/2 p-10 my-10 bg-primary">
+             <div class="card glass mx-auto lg:w-1/2 w-3/4 p-10 my-10 bg-primary">
                 <figure><img src={`../${mainProject[0]?.image}`} alt="project!"/></figure>
                 <div class="card-body px-20">
                     <h2 class="card-title mx-auto">{mainProject[0]?.title}</h2>
