@@ -2,6 +2,9 @@
 .App {
   text-align: center;
 }
+.main-body{
+  min-height: 80vh;
+}
 
 .App-logo {
   height: 40vmin;

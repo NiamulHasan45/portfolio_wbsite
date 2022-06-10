@@ -4,14 +4,13 @@ import Project from '../Project/Project';
 const Projects = () => {
     const [projects, setProjects] = useState([]);
     useEffect(() => {
-        fetch('data.json')
+        fetch('https://niamulhasan45.github.io/projects.json')
             .then(res => res.json())
             .then(data => setProjects(data))
     }, [])
-    console.log(projects);
     
     return (
-        <div>
+        <div id='projects'>
             <h1 className='text-4xl text-accent font-bold'>PROJECTS</h1>
             <div className='grid lg:grid-cols-2 grid-cols-1 gap-20 lg:m-20 m-10'>
 

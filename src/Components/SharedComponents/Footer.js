@@ -11,8 +11,9 @@ const Footer = () => {
                 <p className='m-4'>All right reserved</p>
                 <div class="icons m-4">
                     <a href=""><i class="fab fa-instagram bottom"></i></a>
+                    <a href=""><i class="fa fa-linkedin bottom"></i></a>
                     <a href=""><i class="fab fa-facebook-square bottom"></i></a>
-                    <a href=""><i class="fab fa-twitter-square bottom"></i></a>
+                    <a href="https://www.linkedin.com/in/niamul-hasan-14ba661b2/"><i class="fab fa-twitter-square bottom"></i></a>
                     <a href=""><i class="fab fa-youtube bottom"></i></a>
                 </div>
             </div>

@@ -16,7 +16,7 @@ const ContactMe = () => {
         event.target.reset();
     }
     return (
-        <div>
+        <div id='contact'>
             <h1 className='text-4xl text-accent font-bold'>CONTACT ME</h1>
             <form className='lg:w-1/2 p-20 mx-auto'
                 onSubmit={handleSubmit}
