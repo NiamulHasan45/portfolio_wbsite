@@ -12,9 +12,10 @@ const Header = () => {
                         </label>
                         <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-secondary rounded-box w-52">
                             <li><Link to='/'>Home</Link></li>
-                            <li><a>About</a></li>
-                            <li><a href='#projects'>Projects</a></li>
-                            <li><a href='#contact'>Contact</a></li>
+                            <li><a href='/#about'>About</a></li>
+                            <li><a href='/#projects'>Projects</a></li>
+                            <li><a href='/#contact'>Contact</a></li>
+                            <li><Link to='/blog'>Blog</Link></li>
                         </ul>
                     </div>
                     <a class="btn btn-ghost normal-case text-xl">Niamul Hasan</a>
